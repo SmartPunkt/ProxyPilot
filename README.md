@@ -1,8 +1,6 @@
-<div align="center">
 
-<img src="assets/images/logo.svg" alt="ProxyPilot Logo" width="120" />
+<img src="https://raw.githubusercontent.com/SmartPunkt/ProxyPilot/main/assets/images/logo.svg" alt="ProxyPilot Logo" width="120" />
 
-# ProxyPilot
 
 ### Универсальный инструмент для управления персональными сетевыми маршрутами
 
