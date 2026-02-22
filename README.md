@@ -6,7 +6,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/SmartPunkt/ProxyPilot?style=for-the-badge&logo=github&color=blue)](https://github.com/SmartPunkt/ProxyPilot/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/SmartPunkt/ProxyPilot/total?style=for-the-badge&logo=android&color=green)](https://github.com/SmartPunkt/ProxyPilot/releases)
-[![License](https://img.shields.io/github/license/SmartPunkt/ProxyPilot?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=for-the-badge)](https://github.com/SmartPunkt/ProxyPilot/blob/main/LICENSE)
 
 [Скачать APK](https://github.com/SmartPunkt/ProxyPilot/releases/latest) • [Telegram](https://t.me/proxy_pilot) • [Сообщить о проблеме](https://github.com/SmartPunkt/ProxyPilot/issues)
 
