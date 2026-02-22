@@ -2,8 +2,7 @@
 
 <img src="assets/logo.svg" alt="ProxyPilot Logo" width="120" />
 
-# 🔷 PROXY**PILOT**
-![ProxyPilot](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=5B9BD5&center=true&vCenter=true&width=435&lines=PROXYPILOT)
+# PROXY**PILOT**
 
 ### Универсальный инструмент для управления персональными сетевыми маршрутами
 
