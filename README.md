@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/images/logo.svg" alt="ProxyPilot Logo" width="120" />
+<img src="assets/logo.svg" alt="ProxyPilot Logo" width="120" />
+
 # ProxyPilot
 
 ### Универсальный инструмент для управления персональными сетевыми маршрутами
